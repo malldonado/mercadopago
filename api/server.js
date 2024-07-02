@@ -70,6 +70,6 @@ app.post("/not", (req, res) => {
   }, 20000);
 });
 
-app.listen("8000", (req, res) => {
+app.listen(process.env.PORT, (req, res) => {
   console.log("server running, port 8000 connected");
 });
