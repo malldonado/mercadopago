@@ -17,7 +17,7 @@ This Node.js API seamlessly connects to the MercadoPago payment gateway, enablin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/malldonado/mercadopago
+git clone https://github.com/malldonado/mercadopago.git
 ```
 
 2. Install dependencies:
